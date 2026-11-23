@@ -1,1 +1,1 @@
-# Lopez_Exercise_1_CCADMACL.ipynb
+# Exercise_1_Lopez_COM241ML.ipynb
